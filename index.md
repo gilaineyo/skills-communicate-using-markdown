@@ -5,3 +5,7 @@
 ``` javascript
 const pig = "Hello Pig!";
 ```
+
+- [ ] Make garden muddy
+- [ ] Collect everyone's leftovers
+- [ ] Adopt a pig
